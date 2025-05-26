@@ -129,7 +129,7 @@
 
     /* ========= */
         #footer_part .container {
-        padding: 15px 20px;
+        padding: 15px 10px;
         flex-direction: column-reverse;
         row-gap: 20px;
     }

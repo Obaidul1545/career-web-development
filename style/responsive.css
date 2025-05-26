@@ -133,5 +133,8 @@
         flex-direction: column-reverse;
         row-gap: 20px;
     }
+    #footer_part .container .text p{
+        font-size: 10px;
+    }
 
 }

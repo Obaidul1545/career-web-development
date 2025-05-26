@@ -1,0 +1,137 @@
+/* laptop device up to 1025 */
+@media screen and (max-width: 1200px) {
+    .header p {
+    padding: 0 170px;
+    }
+    #banner_part .main p {
+    padding: 0 100px;
+    }
+ /* ============= */
+    #inspiration_part .video iframe{
+    height: 346px;
+    }
+
+    #target_part .main .card {
+    width: 260px;
+    }
+    #footer_part .container {
+    padding: 20px 80px;
+    }
+    
+}
+/* tablet device up to 641 */
+@media screen and (max-width: 1024px) {
+    .header {
+    margin-bottom: 30px;
+    }
+    .header h2 {
+    margin-bottom: 12px;
+    }
+    .header p {
+    padding: 0 10px;
+    }
+    .btn button {
+    padding: 10px 14px;
+    font-size: 17px;
+    }
+    /* ============ */
+    #navbar .nav a {
+    font-size: 24px;
+    }
+    #banner_part .main h1 {
+    font-size: 30px;
+    margin: 18px 0 10px;
+    }
+    #banner_part .main p {
+    padding: 0 10px;
+    }
+    /* ============ */
+    #development_part .main{
+    padding: 30px;
+    flex-direction: column-reverse;
+    }
+    #development_part .main .left {
+    width: 100%;
+    text-align: center;
+    }
+    /* ========== */
+    #inspiration_part .video{
+        width: 100%;
+    }
+    /* ======== */
+    #target_part .main{
+        flex-direction: column;
+        row-gap: 40px;
+        align-items: center;
+    }
+    #target_part .main .card {
+    width: 100%;
+    text-align: center;
+    }
+    #footer_part .container {
+    padding: 8px 20px;
+    }
+    #footer_part .container .text p{
+        font-size: 12px;
+    }
+    #footer_part .container .social_link img{
+    width: 26px;
+    }
+
+}
+
+/* mobile device  up to 425px */
+@media screen and (max-width: 640px) {
+    .header h2 {
+    font-size: 20px;
+    }
+    .header p {
+    font-size: 14px;
+    padding: 0 5px;
+    }
+    .btn button {
+        font-size: 14px;
+    }
+    #navbar .nav a {
+        font-size: 18px;
+    }
+    /* ======= */
+    #banner_part .main {
+    padding: 30px 15px;
+    }
+    #banner_part .main img {
+    width: 100%;
+    }
+    #banner_part .main h1 {
+        font-size: 20px;
+        margin: 14px 0 6px;
+    }
+    #banner_part .main p {
+        padding: 0 5px;
+        font-size: 14px;
+    }
+    /* ========== */
+    #development_part .main .left .text h3{
+        font-size: 18px;
+    }
+    #development_part .main .left .text p {
+    font-size: 14px;
+    margin: 10px 0 26px;
+    }
+    /* ============== */
+    #inspiration_part .video iframe {
+        height: 220px;
+    }
+    /* ======= */
+    #target_part .main .card a {
+        font-size: 14px;
+    }
+
+    /* ========= */
+        #footer_part .container {
+        padding: 15px 20px;
+        flex-direction: column-reverse;
+        row-gap: 20px;
+    }
+
+}

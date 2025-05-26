@@ -67,7 +67,7 @@ body{
 /* ============== */
 /* banner */
 #banner_part{
-    margin: 50px auto;
+    margin: 100px auto;
 }
 #banner_part .main{
     background: #eaeff9;
@@ -94,7 +94,7 @@ body{
 /* =========== */
 /* Development part */
 #development_part{
-    margin: 50px auto 50px;
+    margin: 100px auto;
 }
 #development_part .main{
     background: #E6EDF9;
@@ -125,7 +125,7 @@ body{
 /* My Inspiration */
 
 #inspiration_part{
-    margin: 50px auto;
+    margin: 100px auto;
 }
 #inspiration_part .header p{
     font-family: "Azeret Mono", monospace;
@@ -148,7 +148,7 @@ body{
 /* ========== */
 /* My Current Target */
 #target_part{
-    margin: 50px 0;
+    margin: 100px 0;
 }
 #target_part .main{
     display: flex;
